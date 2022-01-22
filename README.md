@@ -1,1 +1,1 @@
-# birthday-planner
+# Birthday Planner
